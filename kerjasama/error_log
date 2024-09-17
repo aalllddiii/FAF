@@ -1,0 +1,208 @@
+[06-Oct-2016 12:09:09 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[08-Oct-2016 04:54:58 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[16-Oct-2016 13:58:32 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[19-Oct-2016 22:24:12 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[26-Oct-2016 13:07:20 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[09-Nov-2016 23:56:56 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[12-Nov-2016 04:21:38 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[16-Nov-2016 13:14:03 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[03-Dec-2016 01:53:51 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[13-Dec-2016 04:27:40 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[20-Dec-2016 14:59:45 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[30-Dec-2016 09:43:55 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[04-Jan-2017 13:29:01 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[19-Jan-2017 04:50:39 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[31-Jan-2017 05:40:26 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[13-Feb-2017 03:43:47 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[02-Mar-2017 04:43:35 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[02-Mar-2017 11:19:31 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[02-Mar-2017 13:39:43 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[05-Mar-2017 08:13:08 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[17-Mar-2017 13:56:28 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[25-Mar-2017 01:34:10 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[09-Apr-2017 12:32:31 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[21-Apr-2017 08:07:21 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[25-Apr-2017 05:53:05 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[24-May-2017 10:30:30 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.niagahoster.com' did not match expected CN=`localhost' in /home/ugbemfik/public_html/kerjasama/mail/class.smtp.php on line 358
+[24-Dec-2019 07:47:36 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 07:47:36 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 07:51:20 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 07:51:20 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:15:19 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:15:19 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:17:26 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:17:26 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:29:52 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:29:52 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:35:42 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:35:42 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:37:23 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:37:23 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:37:45 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:37:45 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:40:31 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:40:31 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:45:41 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 08:45:41 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:11:32 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:11:32 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:13:02 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:13:02 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:15:26 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:15:26 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:16:50 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[24-Dec-2019 17:16:50 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:01:49 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:01:49 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:36:52 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:36:52 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:39:27 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:39:27 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:40:59 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:40:59 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:42:15 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:42:15 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:44:47 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:44:47 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:50:26 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[25-Dec-2019 13:50:26 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:36:25 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:36:25 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:37:33 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:37:33 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:38:52 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Dec-2019 19:38:52 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 10:57:48 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 10:57:48 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 10:59:17 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 10:59:17 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 11:01:19 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[11-Jan-2020 11:01:19 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[03-Feb-2020 15:05:34 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[03-Feb-2020 15:05:34 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[03-Feb-2020 15:06:45 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[03-Feb-2020 15:06:45 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Feb-2020 20:27:48 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[26-Feb-2020 20:27:48 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:28:10 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:28:10 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:29:15 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:29:15 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:30:09 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:30:09 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:31:31 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:31:31 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:34:31 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:34:31 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:36:15 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[27-Feb-2020 14:36:15 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:10:18 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:10:18 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:24:05 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:24:05 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:35:28 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_data_from_url() in /home/bemfikti/public_html/kerjasama/g_verify.php on line 50
+[28-Feb-2020 13:44:14 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:44:14 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 13:50:43 Asia/Jakarta] PHP Warning:  file_get_contents() expects parameter 2 to be boolean, array given in /home/bemfikti/public_html/kerjasama/g_verify.php on line 34
+[28-Feb-2020 13:50:57 Asia/Jakarta] PHP Warning:  file_get_contents() expects parameter 2 to be boolean, array given in /home/bemfikti/public_html/kerjasama/g_verify.php on line 34
+[28-Feb-2020 14:23:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function captcha() in /home/bemfikti/public_html/kerjasama/index.php on line 47
+[28-Feb-2020 14:27:00 Asia/Jakarta] PHP Fatal error:  Call to undefined function captcha() in /home/bemfikti/public_html/kerjasama/index.php on line 47
+[28-Feb-2020 14:27:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function captcha() in /home/bemfikti/public_html/kerjasama/index.php on line 47
+[28-Feb-2020 14:37:49 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[28-Feb-2020 14:37:49 Asia/Jakarta] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/g_verify.php on line 16
+[29-Feb-2020 10:21:28 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 10:21:28 Asia/Jakarta] PHP Warning:  file_get_contents(https://air34.000webhostapp.com/line/hmmm.php?pesannya=Nama+yang+mengajukan%3A+Fachril+Gunawan%0AOrganisasi+%2F+Instansi%3ABlink%0ATanggal+Kerjasama%3A+29%2F02%2F2020%0ABentuk+kerjasama+%3A+asdsa%0ADeskripsi+Kerjasama%3Aasdsad%0AKeterangan+Tambahan%3Aasd%0AKontak+%3A+08980592757%0AEmail+%3A++fahrilhebat%40gmail.com%0A): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 10:21:43 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[29-Feb-2020 12:04:00 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 12:04:00 Asia/Jakarta] PHP Warning:  file_get_contents(https://air34.000webhostapp.com/line/hmmm.php?pesannya=Nama+yang+mengajukan%3A+Hdbdb%0AOrganisasi+%2F+Instansi%3AGdgdgd%0ATanggal+Kerjasama%3A+29%2F02%2F2020%0ABentuk+kerjasama+%3A+Hdhdhd%0ADeskripsi+Kerjasama%3AHdhhd%0AKeterangan+Tambahan%3AYdygd%0AKontak+%3A+Hfhfh%0AEmail+%3A++syifaputerierita%40gmail.com%0A): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 12:04:15 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[29-Feb-2020 12:12:50 Asia/Jakarta] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 12:12:50 Asia/Jakarta] PHP Warning:  file_get_contents(https://air34.000webhostapp.com/line/hmmm.php?pesannya=Nama+yang+mengajukan%3A+Ipeh%0AOrganisasi+%2F+Instansi%3ABem+%0ATanggal+Kerjasama%3A+29%2F02%2F2020%0ABentuk+kerjasama+%3A+Publ%0ADeskripsi+Kerjasama%3APubl%0AKeterangan+Tambahan%3A-%0AKontak+%3A+081234567890%0AEmail+%3A++syifaputerierita%40gmail.com%0A): failed to open stream: no suitable wrapper could be found in /home/bemfikti/public_html/kerjasama/index.php on line 145
+[29-Feb-2020 12:12:50 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:32:21 Asia/Jakarta] PHP Warning:  Missing argument 2 for get_data_from_url(), called in /home/bemfikti/public_html/kerjasama/index.php on line 162 and defined in /home/bemfikti/public_html/kerjasama/index.php on line 7
+[01-Mar-2020 22:32:38 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:40:07 Asia/Jakarta] PHP Warning:  include(./mail_new/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:40:07 Asia/Jakarta] PHP Warning:  include(): Failed opening './mail_new/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:40:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/bemfikti/public_html/kerjasama/index.php on line 118
+[01-Mar-2020 22:40:10 Asia/Jakarta] PHP Warning:  include(./mail_new/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:40:10 Asia/Jakarta] PHP Warning:  include(): Failed opening './mail_new/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:40:10 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/bemfikti/public_html/kerjasama/index.php on line 118
+[01-Mar-2020 22:41:11 Asia/Jakarta] PHP Warning:  include(./mail_new/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:41:11 Asia/Jakarta] PHP Warning:  include(): Failed opening './mail_new/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bemfikti/public_html/kerjasama/index.php on line 70
+[01-Mar-2020 22:41:11 Asia/Jakarta] PHP Fatal error:  Class 'PHPMailer' not found in /home/bemfikti/public_html/kerjasama/index.php on line 118
+[01-Mar-2020 22:44:52 Asia/Jakarta] PHP Warning:  Missing argument 2 for get_data_from_url(), called in /home/bemfikti/public_html/kerjasama/index.php on line 162 and defined in /home/bemfikti/public_html/kerjasama/index.php on line 7
+[01-Mar-2020 22:44:54 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:48:08 Asia/Jakarta] PHP Warning:  Missing argument 2 for get_data_from_url(), called in /home/bemfikti/public_html/kerjasama/index.php on line 162 and defined in /home/bemfikti/public_html/kerjasama/index.php on line 7
+[01-Mar-2020 22:48:10 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:51:10 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:53:43 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:54:26 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Mar-2020 22:54:26 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[10-Dec-2020 16:02:25 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Jan-2021 15:28:10 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Jan-2021 15:28:57 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Jan-2021 15:29:51 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[12-Jan-2021 10:54:32 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[01-Feb-2021 17:24:45 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[04-Feb-2021 22:16:55 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[06-Feb-2021 13:04:33 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[06-Feb-2021 13:05:20 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[06-Feb-2021 13:08:08 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[10-Feb-2021 13:46:02 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[22-Feb-2021 23:33:14 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[23-Feb-2021 15:59:00 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[11-Mar-2021 12:12:39 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[11-Mar-2021 12:19:26 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[17-Mar-2021 18:22:01 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[24-Mar-2021 15:39:14 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[30-Mar-2021 14:12:02 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[03-Apr-2021 11:53:57 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[03-Apr-2021 12:31:39 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[03-Apr-2021 14:18:10 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[06-Apr-2021 17:39:21 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[16-Apr-2021 20:37:08 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[16-Apr-2021 21:26:42 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[17-Apr-2021 14:14:56 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[19-Apr-2021 16:29:48 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[19-Apr-2021 19:44:51 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[20-Apr-2021 22:17:44 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358
+[28-Apr-2021 14:58:03 Asia/Jakarta] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/bemfikti/public_html/kerjasama/mail/class.smtp.php on line 358

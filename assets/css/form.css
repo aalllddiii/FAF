@@ -1,0 +1,205 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+body{
+background: linear-gradient(to bottom,#e7f2e3,#bfe7e4);
+-o-transition: all .4s ease-in-out;
+-webkit-transition: all .4s ease-in-out;
+transition: all .4s ease-in-out;
+height: 100%;
+font-family: "Montserrat", sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+margin-top: auto;
+margin-bottom: auto;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 15px;
+width: 450px;
+background-color: #fff !important;
+-webkit-box-shadow: 0 30px 60px 0 rgba(25,47,79,0.5);
+box-shadow: 0 30px 60px 0 rgba(25,47,79,0.5);
+}
+.card-daftar{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card-header,.card-footer{
+    background-color: transparent;
+}
+.card-header{
+    border-bottom: none;
+}
+.card-header h1{
+    padding-top: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #ed616c;
+}
+
+.input-group-prepend span{
+width: 40px;
+background-color: #fcdfe1;
+border:0 !important;
+}
+h6,small{
+  color:#1f4293;
+}
+.fas,.fab{
+    color: #797fa1;
+}
+.fa-key{
+  transform: rotate(270deg);
+}
+.fa-phone{
+  transform: rotate(90deg);
+}
+.form-control{
+    border:0;
+}
+input{
+  background-color: #fcdfe1;
+  color: #1f4293;
+}
+input:focus{
+    background-color: #fcdfe1;
+    border-bottom: 2px solid #5fbae9;
+}
+
+.remember{
+    background: -webkit-linear-gradient(#2481c4,#1f4293);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.btn2{ 
+    display: inline-block;
+    padding: 13.5px 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ed616c;
+    background: #fcdfe1;
+    box-shadow: 5px 3px 5px #ed616c;
+    border: none;
+    border-radius: 10px;
+    background-size: 200% auto;
+}
+
+.btn2:hover{
+  color: #708ec4;
+  text-decoration: none;
+  background: #fff2ac;
+  box-shadow: 5px 3px 5px #708ec4;
+}
+
+.links{
+color: #1f4293;
+}
+
+.links a{
+margin-left: 4px;
+}
+/* ANIMATIONS */
+
+/* Simple CSS3 Fade-in-down Animation */
+.fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  
+  @-webkit-keyframes fadeInDown {
+    0% {
+      opacity: 0;
+      -webkit-transform: translate3d(0, -100%, 0);
+      transform: translate3d(0, -100%, 0);
+    }
+    100% {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  
+@keyframes fadeInDown {
+    0% {
+      opacity: 0;
+      -webkit-transform: translate3d(0, -100%, 0);
+      transform: translate3d(0, -100%, 0);
+    }
+    100% {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  
+  /* Simple CSS3 Fade-in Animation */
+  @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+  @-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+  @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+  
+  .fadeIn {
+    opacity:0;
+    -webkit-animation:fadeIn ease-in 1;
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+  
+    -webkit-animation-fill-mode:forwards;
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+  
+    -webkit-animation-duration:1s;
+    -moz-animation-duration:1s;
+    animation-duration:1s;
+  }
+  
+  .fadeIn.first {
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+  }
+  
+  .fadeIn.second {
+    -webkit-animation-delay: 0.6s;
+    -moz-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+  }
+  
+  .fadeIn.third {
+    -webkit-animation-delay: 0.8s;
+    -moz-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+  }
+  
+  .fadeIn.fourth {
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    animation-delay: 1s;
+  }
+  
+  .custom-class-border-bottom{
+    border-bottom-right-radius: unset;
+    border-bottom: solid 1px pink;
+  }

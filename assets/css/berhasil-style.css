@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+body {
+    background-color: rgba(36,129,196,0.2);
+}
+
+#card {
+    position: relative;
+    width: 320px;
+    display: block;
+    margin: 40px auto;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+ 
+#upper-side {
+    padding: 2em;
+    background-image: -webkit-linear-gradient(right,#2481c4,#1f4293);
+    background-image: linear-gradient(to left,#2481c4,#1f4293);
+    display: block;
+    color: #fff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#checkmark {
+    font-weight: lighter;
+    fill: #fff;
+    margin: -3.5em auto auto 20px;
+}
+
+#status {
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 1em;
+    margin-top: -.2em;
+    margin-bottom: 0;
+}
+
+#lower-side {
+    padding: 2em 2em 5em 2em;
+    background: #fff;
+    display: block;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+#message {
+    margin-top: -.5em;
+    color: #1f4293;
+    letter-spacing: 1px;
+}
+
+#contBtn {
+    position: relative;
+    top: 1.5em;
+    text-decoration: none;
+    background-image: -webkit-linear-gradient(top,#2481c4,#1f4293);
+    background-image: linear-gradient(to bottom,#2481c4,#1f4293);
+    /* background: -webkit-linear-gradient(top, #e8519e, #c77ff2); */
+    /* background: -o-linear-gradient(top, #e8519e, #c77ff2, #e8519e, #c77ff2);
+    background: -moz-linear-gradient(top, #e8519e, #c77ff2, #e8519e, #c77ff2);
+    background: linear-gradient(top, #e8519e, #c77ff2, #e8519e, #c77ff2); */
+    font-weight: 600;
+    color: #fff;
+    margin: auto;
+    padding: .8em 3em;
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+    border-radius: 25px;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+#contBtn:hover {
+    -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.41);
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+}
